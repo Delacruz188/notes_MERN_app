@@ -11,6 +11,7 @@ async function main() {
   await app.listen(5000);
   // luego pasara esto
   // pero los procesos del servidor no seran interrumpidos
+  //   .
   console.log(`Server on port ${PORT}`);
 }
 
